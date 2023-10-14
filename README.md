@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Fabrizio Alencar
 
 - 🔭 Hoje estou estudando Análise e desenvolvimento de sistemas
-- 🌱 Estudando Python, HTML, CSS, Javascript
+- 🌱 Estudando Python, HTML, CSS, Javascript, Django, Git.
 - 📫 Contate-me pelo email: fabrizioalencarjunior@gmail.com
 - 😄 Pronouns: ele/dele
 
