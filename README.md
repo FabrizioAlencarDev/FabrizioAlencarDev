@@ -1,32 +1,18 @@
-### Olá, Eu sou o Fabrizio Alencar
+# 💫 About Me:
+Olá, Eu sou o Fabrizio Alencar<br>🔭 DEV Jr<br>🌱 Sempre aprendendo um pouco mais sobre Python, HTML, CSS, Javascript, Django, Git.<br>📫 Contate-me pelo email: fabrizioalencarjunior@gmail.com<br>😄 Pronouns: ele/dele
 
-- 🔭 DEV Jr
-- 🌱 Sempre aprendendo um pouco mais sobre Python, HTML, CSS, Javascript, Django, Git.
-- 📫 Contate-me pelo email: fabrizioalencarjunior@gmail.com
-- 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/fabrizioalencardev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabrizioalencardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrizioalencardev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabrizioalencar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrizio-alencar-dev) 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fabrizio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabrizio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabrizio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabrizio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FabrizioAlencarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FabrizioAlencarDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioAlencarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-##
+---
+[![](https://visitcount.itsvg.in/api?id=FabrizioAlencarDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div> 
-  <a href="https://instagram.com/fabrizioalencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/MwX5QxeR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fabrizioalencarjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabrizio-alencar-0aa916145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-  ![Snake animation](https://github.com/fabrizioalencardev/fabrizioalencardev/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
